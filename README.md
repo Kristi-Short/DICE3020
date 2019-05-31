@@ -1,7 +1,5 @@
 ## Welcome to Kristi's Final Project
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-
+![Image of Yaktocat]https://media.beliefnet.com/~/media/photos-with-attribution/faiths/001/last%20supper%20_%20public%20domain%20wikimedia%20commons.jpg
 
 ### Markdown
 
