@@ -1,9 +1,8 @@
- ## Welcome to Kristi's Final Project
-![Image of Yaktocat](https://media.beliefnet.com/~/media/photos-with-attribution/faiths/001/last%20supper%20_%20public%20domain%20wikimedia%20commons.jpg)
+### DICE 3020 FINAL PROJECT
+![Image of Final Dinner](https://media.beliefnet.com/~/media/photos-with-attribution/faiths/001/last%20supper%20_%20public%20domain%20wikimedia%20commons.jpg)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
