@@ -1,5 +1,5 @@
 ## Welcome to Kristi's Final Project
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
