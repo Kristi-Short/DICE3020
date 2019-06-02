@@ -1,4 +1,4 @@
-### DICE 3020 FINAL PROJECT
+<center>### DICE 3020 FINAL PROJECT</center>
 ![Image of Final Dinner](https://media.beliefnet.com/~/media/photos-with-attribution/faiths/001/last%20supper%20_%20public%20domain%20wikimedia%20commons.jpg)
 
 ### Markdown
