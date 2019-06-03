@@ -20,4 +20,4 @@ last meal before his crucifiction. The idea was for it represent _Holy Communion
 
 
 
- [repository settings](https://github.com/Kristi-Short/DICE3020/settings).
+ [Kristi Shorts GitHub](https://github.com/KShort).
