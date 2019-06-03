@@ -4,8 +4,10 @@
 ### Leonardo Da Vinci 1490
 
 
-```markdown
-The meaning and depiction of the _Final Supper_ has changed over the centuries and this piece itself as shown adaptation everytime it is recreated. Leonardo da Vinci's is one of the most well know and created in 1490 with 
+
+The meaning and depiction of the _Final Supper_ has changed over the centuries and 
+this piece itself as shown adaptation everytime it is recreated. Leonardo da Vinci's 
+is one of the most well know and created in 1490 with 
 
 
 
@@ -18,7 +20,7 @@ The meaning and depiction of the _Final Supper_ has changed over the centuries a
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
