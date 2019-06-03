@@ -1,5 +1,6 @@
 # <center>LAST SUPPER</center>
 ![Image of Last Supper](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/1024px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg)
+[Link](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/1024px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg)
 
 ### Leonardo Da Vinci 1490
 
@@ -7,7 +8,8 @@
 
 The meaning and depiction of the _Final Supper_ has changed over the centuries and 
 this piece itself as shown adaptation everytime it is recreated. Leonardo da Vinci's 
-is one of the most well know and created in 1490 with 
+is one of the most well know and created in 1490 with the idea that it would be a view inside Jesus'
+last meal before his crucifiction. The idea was for it resemble _Holy Communion_
 
 
 
