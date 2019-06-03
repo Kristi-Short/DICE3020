@@ -1,11 +1,11 @@
 <center> # LAST SUPPER</center>
-![Image of Last Supper] https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/1024px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg
+![Image of Last Supper](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/1024px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg)
 
 ### Leonardo Da Vinci 1490
 
 
 ```markdown
-Syntax highlighted code block
+The original meaning of Leonardo's Final Supper
 
 # Header 1
 ## Header 2
