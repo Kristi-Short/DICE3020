@@ -16,7 +16,7 @@ last meal before his crucifiction. The idea was for it represent _Holy Communion
 
 
 ### Pop Culture Takes Over
-<center>![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)</center>
+![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 
 
 
