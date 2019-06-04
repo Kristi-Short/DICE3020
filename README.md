@@ -21,12 +21,12 @@ Digital Technology has changed the look and meaning of _The Last Supper_ and peo
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 
-### Coming and Going of Images
+### Digital Workings
 
 
 ### Work Cite 
-Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
+1.Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
 
-
+2.Schwartz, Lillian F. “The Staging of Leonardo's ‘Last Supper’: A Computer-Based Exploration of Its Perspective.” Leonardo. Supplemental Issue, vol. 1, 1988, pp. 89–96. JSTOR, www.jstor.org/stable/1557916.
 
  [Kristi Shorts GitHub](https://github.com/KShort).
