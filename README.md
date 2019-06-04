@@ -13,7 +13,7 @@ Digital Technology has changed the look and meaning of _The Last Supper_ and peo
 
 
 
-### Evolution or Adaption
+### Evolution or Adaptation
 ![Image of Last Supper](https://media.beliefnet.com/~/media/photos-with-attribution/faiths/001/last%20supper%20_%20public%20domain%20wikimedia%20commons.jpg)
 
 
