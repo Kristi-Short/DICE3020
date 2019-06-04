@@ -21,5 +21,12 @@ Digital Technology has changed the look and meaning of _The Last Supper_ and peo
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 
+### Coming and Going of Images
+
+
+[JSTOR](https://www-jstor-org.proxy.seattleu.edu/stable/25665622?Search=yes&resultItemClick=true&searchText=leonardo&searchText=da&searchText=Vinci&searchText=Last&searchText=Supper&searchUri=%2Faction%2FdoAdvancedSearch%3Fq0%3Dleonardo%2Bda%2BVinci%26amp%3Bc1%3DAND%26amp%3Bacc%3Don%26amp%3Bf5%3Dall%26amp%3Bf3%3Dall%26amp%3Bc4%3DAND%26amp%3Bc3%3DAND%26amp%3Bf4%3Dall%26amp%3Bq3%3D%26amp%3Bq4%3D%26amp%3Bsd%3D%26amp%3Bisbn%3D%26amp%3Bf2%3Dall%26amp%3Bq5%3D%26amp%3Bq1%3DLast%2BSupper%26amp%3Bq2%3D%26amp%3Bc6%3DAND%26amp%3Bf0%3Dall%26amp%3Bc5%3DAND%26amp%3Bpt%3D%26amp%3Bq6%3D%26amp%3Bed%3D%26amp%3Bf1%3Dti%26amp%3Bla%3D%26amp%3Bc2%3DAND%26amp%3Bgroup%3Dnone%26amp%3Bf6%3Dall&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A3f5c755ff3e2f5fe2f1ad96eefdd3421&seq=3#metadata_info_tab_contents)
+Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
+
+
 
  [Kristi Shorts GitHub](https://github.com/KShort).
