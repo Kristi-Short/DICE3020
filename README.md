@@ -9,6 +9,7 @@ is one of the most well know and created in 1490 with the idea that it would be 
 last meal before his crucifiction. The idea was for it represent _Holy Communion_
 
 ### The Rhetoric of The Final Supper
+Digital Technology haschanged the look and meaning of _The Last Supper_ and people of Christian Faith have been able to make changed as they see approprate with time. The simple fact that we can break down pieces of the painting and zoom in on every little paint stroke makes this art piece almost like evidence of a crime sceen. The meanings of small things such as drink ware, characters position, and even background area.
 
 
 
