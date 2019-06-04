@@ -29,4 +29,7 @@ Digital Technology has changed the look and meaning of _The Last Supper_ and peo
 
 2.Schwartz, Lillian F. “The Staging of Leonardo's ‘Last Supper’: A Computer-Based Exploration of Its Perspective.” Leonardo. Supplemental Issue, vol. 1, 1988, pp. 89–96. JSTOR, www.jstor.org/stable/1557916.
 
+3.
+4.
+
  [Kristi Shorts GitHub](https://github.com/KShort).
