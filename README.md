@@ -4,9 +4,9 @@
 
 ### What we think-Leonardo Da Vinci
 The feelings and depiction of the _Final Supper_ has changed over the centuries and 
-this piece itself has shown adaptation everytime it is recreated. Leonardo da Vinci's 
-is one of the most well know and created in 1490's with the idea that it would be a view inside Jesus'
-last meal before his crucifixion. The idea was for it represent _Holy Communion_ and there has been many changes in the idea of what Da Vinci really was trying to say. This artifact itself has seen STOP
+this piece itself has shown adaptation everytime it is recreated. Leonardo da Vinci's art
+is one of the most well know and started creation in 1495 with the idea that it would be a view inside Jesus'
+last meal before his crucifixion. The idea was for it represent _Holy Communion_ and there has been many changes in the idea of what Da Vinci was really trying to express. Coming from a Christian Background I saw copies of this in church, family members homes and even in places of business. Religeous history has believed that _The Final Supper_ was pretty much dipiction of Christian truth, modern society has STOP
 
 ### The Rhetoric of The Final Supper
 Digital Technology has changed the look and meaning of _The Last Supper_ and people of Christian Faith and other Religions have been able to make changes as they see approprate with time. The simple fact that we can break  certain down pieces of the painting with a zoom in, helps us see every little paint stroke.What this has done for art lovers is made access and analysis incredibly easy. The meanings of small things such as drink ware, characters position, and even background area.STOP
