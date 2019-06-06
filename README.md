@@ -9,7 +9,7 @@ is one of the most well know and started creation in 1495 with the idea that it 
 last meal before his crucifixion. The idea was for it  to represent _Holy Communion_ and there has been many changes in the idea of what Da Vinci was really trying to express by today's standard. Coming from a Christian Background I saw copies of this in church, family members homes and even in places of business, but never realizing how much it has changed throughout the years. The look of the painting has decayed over the years and maybe even the original meaning has decayed. 
 
 ### The Rhetoric of The Final Supper
-Digital Technology has changed the look and meaning of _The Last Supper_ and people of Christian Faith and other Religions have been able to make changes as they see approprate with time and personal need. The simple fact that we can break apart certain pieces of the painting with a zoom on a laptop, watch a video.[SmartHistory](https://smarthistory.org/leonardo-last-supper/) or buy a copy means that the view can be different for everyone. helps us see every little paint stroke.What this has done for art lovers is made access and analysis incredibly easy. The meanings of small things such as drink ware, characters position, and even background area.STOP
+Digital Technology has changed the look and meaning of _The Last Supper_ and people of Christian Faith and other Religions have been able to make changes as they see approprate with time and personal need. The simple fact that we can break apart certain pieces of the painting with a zoom on a laptop, watch a video([SmartHistory](https://smarthistory.org/leonardo-last-supper/)) or buy a revised copy means that the view can be different for everyone.What this has done for art lovers is made access and analysis incredibly easy, it has also made restoration of the piece a modern "virtual reallity" as Dott Mario Taddei  talks about in his Digital Restoration Article of The Last Supper by Da Vinci.(1)
 
 
 
@@ -25,11 +25,15 @@ Digital Technology has changed the look and meaning of _The Last Supper_ and peo
 
 
 ### Work Cite 
-1.Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
+1. Dott Mario. "Digital restoration of the Last Supper by Leonardo Da Vinci and multimedia tools to experience edutainment." IOP   Series: Materials Science and Engineering. Vol. 364. No. 1. IOP Publishing, 2018.
+https://iopscience.iop.org/article/10.1088/1757-899X/364/1/012034/pdfTaddei,
 
-2.Schwartz, Lillian F. “The Staging of Leonardo's ‘Last Supper’: A Computer-Based Exploration of Its Perspective.” Leonardo. Supplemental Issue, vol. 1, 1988, pp. 89–96. JSTOR, www.jstor.org/stable/1557916.
+2.Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
 
-3.
+3.Schwartz, Lillian F. “The Staging of Leonardo's ‘Last Supper’: A Computer-Based Exploration of Its Perspective.” Leonardo. Supplemental Issue, vol. 1, 1988, pp. 89–96. JSTOR, 
+www.jstor.org/stable/1557916.
+
 4.
+5.
 
  [Kristi Shorts GitHub](https://github.com/KShort).
