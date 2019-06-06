@@ -15,14 +15,15 @@ Digital Technology has changed the look and meaning of _The Last Supper_ and peo
 
 ### Evolution or Adaptation
 ![Image Leonardo3](https://www.researchgate.net/publication/325833527/figure/fig1/AS:639040307077122@1529370490809/Last-Supper-multimedia-room-in-the-Leonardo3-museum-piazza-Scala-Milan-Italy.png)
+[Leonardo3](https://www.researchgate.net/publication/325833527/figure/fig1/AS:639040307077122@1529370490809/Last-Supper-multimedia-room-in-the-Leonardo3-museum-piazza-Scala-Milan-Italy.png)
 The Leonardo3 Museum has taken Di Vinci's work to a whole new level. Once the world realized that the rapid decay of _The Final Supper_ many realized that it wouldnt stay around forever, so Leonardo3 Museum took Da Vinci's art and recreated 
 
 
 ### Pop Culture Takes Over
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
+When art becomes popular with times it changes to what social media and technology want.
 
-### Digital Workings
 
 
 ### Work Cite 
