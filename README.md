@@ -26,7 +26,7 @@ The Leonardo3 Museum has taken Di Vinci's work to a whole new level. Once the wo
 
 
 ### Work Cite 
-1. Dott Mario. "Digital restoration of the Last Supper by Leonardo Da Vinci and multimedia tools to experience edutainment." IOP   Series: Materials Science and Engineering. Vol. 364. No. 1. IOP Publishing, 2018.
+1.Dott Mario. "Digital restoration of the Last Supper by Leonardo Da Vinci and multimedia tools to experience edutainment." IOP   Series: Materials Science and Engineering. Vol. 364. No. 1. IOP Publishing, 2018.
 https://iopscience.iop.org/article/10.1088/1757-899X/364/1/012034/pdfTaddei,
 
 2.Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
@@ -35,6 +35,7 @@ https://iopscience.iop.org/article/10.1088/1757-899X/364/1/012034/pdfTaddei,
 www.jstor.org/stable/1557916.
 
 4.
+
 5.
 
  [Kristi Shorts GitHub](https://github.com/KShort).
