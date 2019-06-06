@@ -9,12 +9,13 @@ is one of the most well know and started creation in 1495 with the idea that it 
 last meal before his crucifixion. The idea was for it  to represent _Holy Communion_ and there has been many changes in the idea of what Da Vinci was really trying to express by today's standard. Coming from a Christian Background I saw copies of this in church, family members homes and even in places of business, but never realizing how much it has changed throughout the years. The look of the painting has decayed over the years and maybe even the original meaning has decayed. 
 
 ### The Rhetoric of The Final Supper
-Digital Technology has changed the look and meaning of _The Last Supper_ and people of Christian Faith and other Religions have been able to make changes as they see approprate with time and personal need. The simple fact that we can break apart certain pieces of the painting with a zoom on a laptop, watch a video([SmartHistory](https://smarthistory.org/leonardo-last-supper/)) or buy a revised copy means that the view can be different for everyone.What this has done for art lovers is made access and analysis incredibly easy, it has also made restoration of the piece a modern "virtual reallity" as Dott Mario Taddei  talks about in his Digital Restoration Article of The Last Supper by Da Vinci.(1)
+Digital Technology has changed the look and meaning of _The Last Supper_ and people of Christian Faith and other Religions have been able to make changes as they see approprate with time and personal need. The simple fact that we can break apart certain pieces of the painting with a zoom on a laptop, watch a video([SmartHistory](https://smarthistory.org/leonardo-last-supper/)) or buy a revised copy means that the view can be different for everyone.What this has done for art lovers is made access and analysis incredibly easy, it has also made restoration of the piece a modern "virtual reallity" as Dott Mario Taddei  talks about in his Digital Restoration Article of The Last Supper by Da Vinci.(1) I think that the reallity of historical art is that we have made modern art out of what we can reguardless of the adaptation that may have been used.
 
 
 
 ### Evolution or Adaptation
-![Image of Last Supper](https://media.beliefnet.com/~/media/photos-with-attribution/faiths/001/last%20supper%20_%20public%20domain%20wikimedia%20commons.jpg)
+![Image Leonardo3](https://www.researchgate.net/publication/325833527/figure/fig1/AS:639040307077122@1529370490809/Last-Supper-multimedia-room-in-the-Leonardo3-museum-piazza-Scala-Milan-Italy.png)
+The Leonardo3 Museum has taken Di Vinci's work to a whole new level. Once the world realized that the rapid decay of _The Final Supper_ many realized that it wouldnt stay around forever, so Leonardo3 Museum took Da Vinci's art and recreated 
 
 
 ### Pop Culture Takes Over
