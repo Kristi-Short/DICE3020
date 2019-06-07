@@ -23,6 +23,7 @@ The Leonardo3 Museum has taken Di Vinci's work to a whole new level. Once the wo
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 When art becomes popular with times it changes to what social media and technology want.
+Pop-culture has done wonders for revitalizing art, some may not be thought of as acceptable in the minds of the Art Historian but some have changed the way we view a particular piece, _The Final Supper_ is no exception to this rule.
 
 
 
