@@ -24,6 +24,11 @@ The Leonardo3 Museum has taken Di Vinci's work to a whole new level. Once the wo
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 When art becomes popular with times it changes to what social media and technology want.
 
+## New Branch
+
+Hi Kristi, I'm adding this just so you can see what it's like to have someone work on your site, write it on a new branch in their fork, and ultimately, so you can receive a pull request, which you can then accept or reject. Pretty cool, huh?
+
+Don't worry, I won't be offended when you reject my pull request. ;)
 
 
 ### Work Cite 
