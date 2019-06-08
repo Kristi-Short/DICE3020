@@ -35,7 +35,7 @@ https://iopscience.iop.org/article/10.1088/1757-899X/364/1/012034/pdfTaddei,
 4.Schwartz, Lillian F. “The Staging of Leonardo's ‘Last Supper’: A Computer-Based Exploration of Its Perspective.” Leonardo. Supplemental Issue, vol. 1, 1988, pp. 89–96. JSTOR, 
 www.jstor.org/stable/1557916.
 
-5. Leonardo3 Exhibits http://www.leonardo3.net/en/traveling-exhibitions/the-last-supper/
+5.Leonardo3 Exhibits http://www.leonardo3.net/en/traveling-exhibitions/the-last-supper/
 
 
  [Kristi Shorts GitHub](https://github.com/KShort).
