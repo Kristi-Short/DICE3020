@@ -24,18 +24,18 @@ Pop-culture has done wonders for revitalizing art,may not be thought of as accep
 
 
 ### Work Cite 
-1.Leonardo, Last Supper
-by DR. STEVEN ZUCKER and DR. BETH HARRIS
+ 1.Leonardo, Last Supper Video
+ by DR. STEVEN ZUCKER and DR. BETH HARRIS
+ 
 2.Dott Mario. "Digital restoration of the Last Supper by Leonardo Da Vinci and multimedia tools to experience edutainment." IOP   Series: Materials Science and Engineering. Vol. 364. No. 1. IOP Publishing, 2018.
 https://iopscience.iop.org/article/10.1088/1757-899X/364/1/012034/pdfTaddei,
 
-2.Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
+3.Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
 
-3.Schwartz, Lillian F. “The Staging of Leonardo's ‘Last Supper’: A Computer-Based Exploration of Its Perspective.” Leonardo. Supplemental Issue, vol. 1, 1988, pp. 89–96. JSTOR, 
+4.Schwartz, Lillian F. “The Staging of Leonardo's ‘Last Supper’: A Computer-Based Exploration of Its Perspective.” Leonardo. Supplemental Issue, vol. 1, 1988, pp. 89–96. JSTOR, 
 www.jstor.org/stable/1557916.
 
-4. Leonardo3 Exhibits http://www.leonardo3.net/en/traveling-exhibitions/the-last-supper/
+5. Leonardo3 Exhibits http://www.leonardo3.net/en/traveling-exhibitions/the-last-supper/
 
-5.
 
  [Kristi Shorts GitHub](https://github.com/KShort).
