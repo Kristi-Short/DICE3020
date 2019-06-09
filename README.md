@@ -2,11 +2,11 @@
 ![Image of Last Supper](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/1024px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg)
 [Wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/1024px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg)
 
-### What we think-Leonardo Da Vinci
+### What we think-_The Last Supper_
 The feelings and depiction of the _Final Supper_ has changed over the centuries and 
-this piece itself has shown adaptation everytime it is recreated. Leonardo da Vinci's art
+this piece itself has shown adaptation everytime it is recreated or restored. Leonardo da Vinci's art
 is one of the most well know and started creation in 1495 with the idea that it would be a view inside Jesus'
-last meal before his crucifixion. The idea was for it  to represent _Holy Communion_ and there has been many changes in the idea of what Da Vinci was really trying to express by today's standard. Coming from a Christian Background I saw copies of this in church, family members homes and even in places of business, but never realizing how much it has changed throughout the years. The look of the painting has decayed over the years and maybe even the original meaning has decayed. 
+last meal before his crucifixion. The idea was for it  to represent _Holy Communion_ and there has been many changes in the idea of what Da Vinci was really trying to express according to today's standard. Coming from a Christian Background I saw copies of this in church, family members homes and even in places of business, but never realizing how much it has changed throughout the years, the modern day feeling seems to be more than just a painting about hidden agenda's. 
 
 ### The Rhetoric of The Final Supper
 Digital Technology has changed the look and meaning of _The Last Supper_ and people of Christian Faith and other Religions have been able to make changes as they see approprate with time and personal need. The simple fact that we can break apart certain pieces of the painting with a zoom on a laptop, watch a video([SmartHistory](https://smarthistory.org/leonardo-last-supper/))(1) or buy a revised copy means that the view can be different for everyone.What this has done for art lovers is made access and analysis incredibly easy, it has also made restoration of the piece a modern "virtual reallity" as Dott Mario Taddei  talks about in his Digital Restoration Article of The Last Supper by Da Vinci.(2) I think that the reallity of historical art is that we have made modern art out of what we can reguardless of the adaptation that may have been used.
