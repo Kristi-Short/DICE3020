@@ -12,14 +12,14 @@ Digital Technology has changed the look and meaning behind _The Last Supper_ and
 ![Image Leonardo3](https://www.researchgate.net/publication/325833527/figure/fig1/AS:639040307077122@1529370490809/Last-Supper-multimedia-room-in-the-Leonardo3-museum-piazza-Scala-Milan-Italy.png)
 [Leonardo3](https://www.researchgate.net/publication/325833527/figure/fig1/AS:639040307077122@1529370490809/Last-Supper-multimedia-room-in-the-Leonardo3-museum-piazza-Scala-Milan-Italy.png)
 ### Evolution or Adaptation
-The Leonardo3 Museum has taken Di Vinci's work to a whole new level. Once the world realized that the rapid decay of _The Last Supper_ many realized that it wouldnt stay around forever, so Leonardo3 Museum took Da Vinci's art and recreated 
-
+ The Leonardo3 Museum has taken Di Vinci's work to a whole new status, the museum have implamented virtual reality, hi resolution and easy access to documentation,this makes priceless pieces of art possible for everyone to experiance. 
+  Once the world realized that that _The Last Supper_  was in rapid decay and that only 42% was actual Da Vinci's own work, technology took over. What was thought to be lost was restored and what had never been seen came to life with shape and color.
+ ![Restoration](http://www.leonardo3.net/leonardo/books-Cenacolo/screens390/Leonardo%20Da%20Vinci%20Ultima%20Cena%20Last%20supper%20Leonardo3%20Mario%20Tadddei%200_intro_%20menu%20.jpg)
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 ### Digital works and Pop Culture
 When art does a rebirth with times it changes to what social media and technology want. Social media along with
-Pop-culture has done wonders for revitalizing art,may not be thought of as acceptable in the minds of the Art Historian but sit has have changed the way we view a particular piece, _The Last Supper_ is no exception to this rule, Leonardo3 has implamented virtual reality, hi resolution and easy access to documentation. This makes priceless pieces of art possible for everyone to experiance. 
-
+Pop-culture has done wonders for revitalizing art,may not be thought of as acceptable in the minds of the Art Historian but sit has have changed the way we view a particular piece, _The Last Supper_ is no exception to this rule, 
 
 ### Work Cite 
  1.Leonardo, Last Supper Video
