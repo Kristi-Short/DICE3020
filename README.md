@@ -16,9 +16,11 @@ Digital Technology has changed the look and meaning behind _The Last Supper_ and
   Once the world realized that that _The Last Supper_  was in rapid decay and that only 42% was actual Da Vinci's own work, technology took over. What was thought to be lost was restored and what had never been seen came to life with shape and color.
   
  ![Restoration](http://www.leonardo3.net/leonardo/books-Cenacolo/screens390/Leonardo%20Da%20Vinci%20Ultima%20Cena%20Last%20supper%20Leonardo3%20Mario%20Tadddei%200_intro_%20menu%20.jpg)
+ ### Digital Works
+  Leonardo3 has done amazing things with technology and art, they have taken 
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
-### Digital works and Pop Culture
+### Pop Culture
 When art does a rebirth with times it changes to what social media and technology want. Social media along with
 Pop-culture has done wonders for revitalizing art,may not be thought of as acceptable in the minds of the Art Historian but sit has have changed the way we view a particular piece, _The Last Supper_ is no exception to this rule, 
 
