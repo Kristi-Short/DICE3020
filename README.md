@@ -19,11 +19,13 @@
 
 ![Restoration](http://www.leonardo3.net/leonardo/books-Cenacolo/screens390/Leonardo%20Da%20Vinci%20Ultima%20Cena%20Last%20supper%20Leonardo3%20Mario%20Tadddei%200_intro_%20menu%20.jpg)
  [IOP SCIENCE](http://www.leonardo3.net/leonardo/books-Cenacolo/screens390/Leonardo%20Da%20Vinci%20Ultima%20Cena%20Last%20supper%20Leonardo3%20Mario%20Tadddei%200_intro_%20menu%20.jpg) 
+ 
 ### Digital Works
  Leonardo3 has also done amazing things with technology and art, they have taken what was once a mural that is falling to pieces and have created a digitally restored master piece that you can now see, hear, and love in its new form. They have created work known as “The Time Machine” that restored it not only to its original form but added more insight and drama to a painting with the help of a computer. What they have created is an apostle and Christ voice that an individual can interact with, it helps to generate emotion of what the betrayal was really like at that very moment when Christ spoke. It then explores every detail of the painting while capturing it on a screen for you to see, showing every art connoisseur what the very images meant. They have brightened the colors giving new life to a dark eating area that was maybe seen has dark and gloomy.[Leonardo3 Info Link](http://www.leonardo3.net/LastSupper-info/)(5)
   
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
+
 ### Pop Culture
   When art does a rebirth, it changes to what social media and technology want it to be, there are no choices. Social media along with
 Pop-culture has done wonders for revitalizing art, although it may not always be thought of as what is acceptable in the minds of the Art Historians, the art critic, or a certain generations, but it does change the rules of art in todays world. These rules have been modified to meet out needs of creativity and adventure within art, and Da Vinci's art is no exception to the rule. There have been countless versions of _The Last Supper_ to accomodate any enthusiast and even videos that play off of Da Vinci's art with modern day life. Pop Culture meets art has made things interesting just as in this video that was created by Davey Havok which seems to represent _The Last Supper_ from not only the Pop Culture side but as an advertisement that a younger audience can relate to.
@@ -33,6 +35,7 @@ Pop-culture has done wonders for revitalizing art, although it may not always be
 
 [![Watch the video](https://img.youtube.com/vi/WG1GVUpWCts/0.jpg)](https://www.youtube.com/watch?v=WG1GVUpWCts)
 [Pop Kids](https://www.youtube.com/watch?v=WG1GVUpWCts)
+
 ### Work Cite 
  1.Leonardo, Last Supper Video ([SmartHistory](https://smarthistory.org/leonardo-last-supper/))
  by DR. STEVEN ZUCKER and DR. BETH HARRIS
@@ -46,6 +49,8 @@ Pop-culture has done wonders for revitalizing art, although it may not always be
 www.jstor.org/stable/1557916.
 
 5.Leonardo3 Exhibits Website [http://www.leonardo3.net/en/traveling-exhibitions/the-last-supper/](http://www.leonardo3.net/en/traveling-exhibitions/the-last-supper/)
+
+
 
 
  [Kristi Shorts GitHub](https://github.com/KShort).
