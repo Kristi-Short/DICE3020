@@ -36,6 +36,8 @@ Pop-culture has done wonders for revitalizing art, although it may not always be
 
 [![Watch the video](https://img.youtube.com/vi/WG1GVUpWCts/0.jpg)](https://www.youtube.com/watch?v=WG1GVUpWCts)
 
+[Pop Kids](https://www.youtube.com/watch?v=WG1GVUpWCts)
+
 ### Work Cite 
  1.Leonardo, Last Supper Video ([SmartHistory](https://smarthistory.org/leonardo-last-supper/))
  by DR. STEVEN ZUCKER and DR. BETH HARRIS
