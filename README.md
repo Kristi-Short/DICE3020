@@ -36,7 +36,7 @@ Pop-culture has done wonders for revitalizing art, although it may not always be
  by DR. STEVEN ZUCKER and DR. BETH HARRIS
  
 2.Dott Mario. "Digital restoration of the Last Supper by Leonardo Da Vinci and multimedia tools to experience edutainment." IOP   Series: Materials Science and Engineering. Vol. 364. No. 1. IOP Publishing, 2018.
-https://iopscience.iop.org/article/10.1088/1757-899X/364/1/012034/pdfTaddei,
+[https://iopscience.iop.org/article/10.1088/1757-899X/364/1/012034/meta](https://iopscience.iop.org/article/10.1088/1757-899X/364/1/012034/meta)
 
 3.Goethe, et al. “LEONARDO DA VINCI'S ‘LAST SUPPER.’” The Journal of Speculative Philosophy, vol. 1, no. 4, 1867, pp. 243–250. JSTOR, www.jstor.org/stable/25665622.
 
