@@ -11,13 +11,15 @@ Digital Technology has changed the look and meaning behind _The Last Supper_ and
 
 ![Image Leonardo3](https://www.researchgate.net/publication/325833527/figure/fig1/AS:639040307077122@1529370490809/Last-Supper-multimedia-room-in-the-Leonardo3-museum-piazza-Scala-Milan-Italy.png)
 [Leonardo3](https://www.researchgate.net/publication/325833527/figure/fig1/AS:639040307077122@1529370490809/Last-Supper-multimedia-room-in-the-Leonardo3-museum-piazza-Scala-Milan-Italy.png)
+
 ### Evolution or Adaptation
  The Leonardo3 Museum has taken Di Vinci's work to a whole new status, the museum have implamented virtual reality, hi resolution and easy access to documentation,this makes priceless pieces of art possible for everyone to experiance. 
   Once the world realized that that _The Last Supper_  was in rapid decay and that only 42% was actual Da Vinci's own work, technology took over. What was thought to be lost was restored and what had never been seen came to life with shape and color.
   
  ![Restoration](http://www.leonardo3.net/leonardo/books-Cenacolo/screens390/Leonardo%20Da%20Vinci%20Ultima%20Cena%20Last%20supper%20Leonardo3%20Mario%20Tadddei%200_intro_%20menu%20.jpg)
  ### Digital Works
-  Leonardo3 has done amazing things with technology and art, they have taken 
+  Leonardo3 has done amazing things with technology and art, they have taken what was once a murual that is falling to pieces and created digital restored art piece that you can see hear and love in its new form. They have created work know as "The Time Machine" that restored it not only to its origianl form but added more insite and drama to a painting with the help of a computer. They have created apostle and Christ voices that an individual can interact with, it helps to create emotion of what the betrayel was really like that very moment when Christ spoke, it then explores every detail of the painting while capturing it on a screen for you to see.
+  
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 ### Pop Culture
