@@ -27,7 +27,10 @@
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 ### Pop Culture
   When art does a rebirth, it changes to what social media and technology want it to be, there are no choices. Social media along with
-Pop-culture has done wonders for revitalizing art, although it may not always be thought of as what is acceptable in the minds of the Art Historians, the art critic, or a certain generations, but it does change the rules of art in todays world. These rules have been modified to meet out needs of creativity and adventure within art, and Da Vinci's art is no exception to the rule. There have been countless versions of _The Last Supper_ to accomodate any enthusiast and even videos that play off of Da Vinci's life
+Pop-culture has done wonders for revitalizing art, although it may not always be thought of as what is acceptable in the minds of the Art Historians, the art critic, or a certain generations, but it does change the rules of art in todays world. These rules have been modified to meet out needs of creativity and adventure within art, and Da Vinci's art is no exception to the rule. There have been countless versions of _The Last Supper_ to accomodate any enthusiast and even videos that play off of Da Vinci's art with modern day life. Pop Culture meets art has made things interesting just as in this video that was created by Davey Havok which seems to represent _The Last Supper_ from not only the Pop Culture side but as an advertisement that a younger audience can relate to.
+
+### The Last
+  I think that Da Vinci's piece is beautiful and elegant, I think that modern day technology has saved what has decayed and may not be around for much longer. I also think that art is an expression from each person that creates, views and restores. The work that has been done to _The Last Supper_ through technology has made something beautiful accessible to so many and even though we may not all agree with the adaptation that has happened, at least we still have this amazing masterpiece to enjoy in many forms.
 
 [![Watch the video](https://img.youtube.com/vi/WG1GVUpWCts/0.jpg)](https://www.youtube.com/watch?v=WG1GVUpWCts)
 
