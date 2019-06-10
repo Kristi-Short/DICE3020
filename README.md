@@ -27,7 +27,9 @@
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 ### Pop Culture
   When art does a rebirth, it changes to what social media and technology want it to be, there are no choices. Social media along with
-Pop-culture has done wonders for revitalizing art, although it may not always be thought of as what is acceptable in the minds of the Art Historian, the critic, or a certain generations, but it does change the rules of art in todays world. These rules have been modified to meet out needs of creativity and adventure within art, and Da Vinci's art is no exception to the rule. There have been countless versions of _The Last Supper_ to accomodate any enthusiast.
+Pop-culture has done wonders for revitalizing art, although it may not always be thought of as what is acceptable in the minds of the Art Historians, the art critic, or a certain generations, but it does change the rules of art in todays world. These rules have been modified to meet out needs of creativity and adventure within art, and Da Vinci's art is no exception to the rule. There have been countless versions of _The Last Supper_ to accomodate any enthusiast and even videos that play off of Da Vinci's life
+
+![Pop Kids](https://www.youtube.com/watch?v=WG1GVUpWCts)
 
 ### Work Cite 
  1.Leonardo, Last Supper Video
