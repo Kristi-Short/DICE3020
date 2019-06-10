@@ -18,10 +18,12 @@
   Once the world realized that _The Last Supper_  was in rapid decay and that only 42% was actual Da Vinci's own original work, technology had to take over. What was thought to be lost was restored and what had never been seem to come to life with shape and color. The evolution of this painting has been the meaning behind what adaptation has created. This means that with art changing so rapidly by society being able to dissect every stroke and every angle, the artist original meaning has needed to evolve right along with it. Da Vinci's original _Holy Communion_ has now become either symbolic betrayal or hidden timelines for what was thought to be the end. To see the adaptation of _The Last Supper_ with music, videos, and websites you could almost create your own meaning of what Leonardo was trying to say through his expression in his painting.
   
  ![Restoration](http://www.leonardo3.net/leonardo/books-Cenacolo/screens390/Leonardo%20Da%20Vinci%20Ultima%20Cena%20Last%20supper%20Leonardo3%20Mario%20Tadddei%200_intro_%20menu%20.jpg)
+ 
  ### Digital Works
  Leonardo3 has also done amazing things with technology and art, they have taken what was once a mural that is falling to pieces and have created a digitally restored master piece that you can now see, hear, and love in its new form. They have created work known as “The Time Machine” that restored it not only to its original form but added more insight and drama to a painting with the help of a computer. What they have created is an apostle and Christ voice that an individual can interact with, it helps to generate emotion of what the betrayal was really like at that very moment when Christ spoke. It then explores every detail of the painting while capturing it on a screen for you to see, showing every art connoisseur what the very images meant. They have brightened the colors giving new life to a dark eating area that was maybe seen has dark and gloomy.[Leonardo3 Info Link](http://www.leonardo3.net/LastSupper-info/)
   
 ![image Pop Culture](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
+
 [Pop Culture-Star Wars](https://www.empireonline.com/images/uploaded/last-supper-star-wars.jpg)
 ### Pop Culture
   When art does a rebirth, it changes to what social media and technology want it to be, there are no choices. Social media along with
